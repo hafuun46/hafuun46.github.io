@@ -1123,7 +1123,7 @@ body,
 .mobile .navigation .nav-icon:hover,
 .mobile .dropdown .nav-icon.active,
 .mobile .header-transparent .dropdown .nav-icon.active{
-	color: #000;
+	color: #fff;
 }
 @media only screen and (max-width: 960px){
 	.header .dropdown-list{
@@ -1510,11 +1510,11 @@ body,
 	margin-left: 2rem;
 }
 .mobile .navigation-show a{
-	color: #666;
+	color: #fff;
 	border-color: #eee;
 }
 .mobile .navigation-show a:hover{
-	color: #000;
+	color: #E58BAA;
 	opacity: 1;
 }
 @media only screen and (max-width: 960px){
@@ -1526,7 +1526,7 @@ body,
 		border-color: #fff;
 	}
 	.header .navigation-show a:hover{
-		color: #000;
+		color: #E58BAA;
 		opacity: 1;
 	}
 	.overlay-navigation-header{
@@ -2316,8 +2316,8 @@ h3.project-title{
 	color: #E58BAA;
 }
 .grid-filter-menu a.active{
-	background-color: #333;
-	border-color: #333;
+	background-color: #E58BAA;
+	border-color: #E58BAA;
 	color: #fff;
 }
 
